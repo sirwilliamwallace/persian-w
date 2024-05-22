@@ -1,0 +1,33 @@
+•	W3schools
+ajax (https://www.w3schools.com/xml/ajax_intro.asp)
+various parts of the code such as the scroll button back to the top.
+
+•	PHP tutorial
+PHP login (https://www.phptutorial.net/php-tutorial/php-login/)
+
+•	MDN web docs
+Some parts of HTML & CSS 
+Text To Speech functionality in poems page
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Web/css
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis/speak
+
+
+•	Stack overflow
+Some parts of code such as handling submissions of get and post methods, connecting to the database, handling errors, and some SQL queries, pagination, login, and logout functionality.
+https://stackoverflow.com/
+•	PHP documentation 
+
+I’ve had to search the documentation for some parts of the code.
+https://www.php.net/docs.php
+•	Unsplash
+
+I've retrieved a lot of the images from the web and specifically from Unsplash
+https://unsplash.com/
+
+•	Google Fonts
+I have used Google Fonts for some parts of the website. 
+
+•	Canva
+I’ve also used Canva to create the logo of the website. 
+https://www.canva.com/en_in/
